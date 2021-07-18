@@ -1,0 +1,35 @@
+:root {
+    --theme-color: #1e90ff;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+/* CSS styling for the <noscript> message. */
+
+/* CSS styling for the main things in the website. */
+body {
+    margin: auto;
+    font-family: 'Quicksand', sans-serif;
+
+    background-image: url("https://linerly.github.io/assets/background.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, p {
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    border: 0;
+}
+
+hr {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 2px;
+}

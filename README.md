@@ -1,5 +1,8 @@
 # linerly.github.io
-This is my website to show all of my stuff. This website is still under development.
-There's also a lot of fun stuff in my website, just check it out at: https://linerly.github.io/
 
-Uses HTML and CSS (and a bit of JavaScript, but you can't see it in this repository)
+![license](https://img.shields.io/github/license/Linerly/linerly.github.io?style=plastic)
+![uptime](https://img.shields.io/uptimerobot/status/m785926106-ad9c782f806b5cbcdcbd4c78?style=plastic)
+
+This is my website to show some of my stuff I made, there's also a lot of fun stuff in my website, just check it out at https://linerly.github.io/
+
+Uses HTML, CSS, and a bit of JavaScript.
